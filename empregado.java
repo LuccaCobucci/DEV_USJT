@@ -38,7 +38,7 @@ public class Empregado{
     public void setTipo (int tipo){
         this.tipo = tipo;
    }
-    public int tipo (){
+    public int getTipo (){
         return this.tipo;
     
   }
