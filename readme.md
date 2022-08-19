@@ -1,6 +1,6 @@
-Esse é o README.md do projeto
+This is the README.md of project
 
 dev
 ===
 
-Para a versão em português consulte o leiame.md
+For the Portuguese version see or leiame.md
