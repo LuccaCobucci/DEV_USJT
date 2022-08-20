@@ -9,7 +9,7 @@ public class Empregado{
 
     public double calculaSalario (){
         if (tipo == 1){
-            return salario;
+            return salario * 1.1;
         }
         else if (tipo == 2){
          //comissão varia de 0 a 1, é um percentual sobre o salário
